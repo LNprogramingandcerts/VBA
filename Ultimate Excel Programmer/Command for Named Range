@@ -1,0 +1,5 @@
+Sub myNamedRange()
+Range("Tax_sum") = 130
+
+
+End Sub
