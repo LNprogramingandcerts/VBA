@@ -1,0 +1,5 @@
+Sub blah()
+
+Range("a1:c6") = 12
+Range("b5") = 130
+End Sub
