@@ -1,0 +1,6 @@
+Sub blaj2()
+
+
+Range("a1:c5,f4") = 5
+
+End Sub
