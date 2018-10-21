@@ -1,0 +1,9 @@
+Sub myValue()
+
+MsgBox Range("a1").Value
+End Sub
+
+Sub myValue()
+
+MsgBox Range("a1").Text
+End Sub
