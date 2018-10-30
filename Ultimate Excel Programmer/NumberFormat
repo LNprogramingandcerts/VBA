@@ -1,0 +1,5 @@
+Sub numberFormat()
+
+Range("table_tax").numberFormat = "0.00"
+
+End Sub
