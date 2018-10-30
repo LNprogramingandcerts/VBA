@@ -1,0 +1,7 @@
+Sub myValue()
+MsgBox Range("a1")
+End Sub
+
+Sub myRoworCol()
+MsgBox Range("e6").Column
+End Sub
