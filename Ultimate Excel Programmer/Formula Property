@@ -1,0 +1,6 @@
+Sub myFormula()
+
+Range("c11").Formula = "=sum(table_tax)"
+Range("c11") = Range("c11").Value 'c11 cell will not change when the table_tax changes
+
+End Sub
