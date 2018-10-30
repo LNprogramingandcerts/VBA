@@ -1,0 +1,5 @@
+Sub myselection()
+
+Range("tax_table").Select
+
+End Sub
