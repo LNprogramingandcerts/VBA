@@ -1,0 +1,7 @@
+Sub myFonts()
+
+Range("table_tax").Font.Bold = True
+Range("table_tax").Font.Underline = True
+Range("table_tax").Font.Italic = True
+
+End Sub
