@@ -1,0 +1,5 @@
+Sub mySub2()
+
+MsgBox Range("tax_table").Count
+
+End Sub
