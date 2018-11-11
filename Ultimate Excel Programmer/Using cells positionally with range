@@ -1,1 +1,5 @@
 
+Sub cell2()
+
+Cells(2) = 44
+End Sub
