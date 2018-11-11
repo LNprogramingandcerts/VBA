@@ -1,0 +1,6 @@
+Sub Exerciscs4()
+
+Cells.Font.Name = "Arial"
+ActiveWindow.Zoom = 145
+Columns("D:D").Style = "Currency"
+End Sub
