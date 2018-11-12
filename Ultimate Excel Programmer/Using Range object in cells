@@ -1,0 +1,6 @@
+Sub cell4()
+
+
+Range(Cells(1, 2), Cells(4, 3)) = 44
+
+End Sub
