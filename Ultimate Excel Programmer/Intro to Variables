@@ -1,0 +1,21 @@
+Sub Var()
+myVar = 50
+MsgBox myVar
+
+End Sub
+
+Declaring Variables in Excel
+
+Boolean Integer Long Double Currency Date String
+
+
+Sub myVariableDec()
+
+Dim hi As String
+Dim hello As Double
+Dim myDate As Date
+
+hi = "Hello WOrld"
+hello = 23242.2342
+myDate = "09/12/1333"
+End Sub
