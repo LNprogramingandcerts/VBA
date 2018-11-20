@@ -1,0 +1,11 @@
+Public myVariable1 As Double Public can be use in any module
+Private myVariable2 as Double Private can not be use in any module
+Sub Var()
+myVar = 50
+MsgBox myVar
+Call myVariableDec
+End Sub
+
+sub Bi()
+myVariable1 = 434343
+myVariable2 = 848439
