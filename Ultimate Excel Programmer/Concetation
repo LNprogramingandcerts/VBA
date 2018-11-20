@@ -1,0 +1,5 @@
+Sub concat()
+
+myTxt = "I love " & "you"
+
+End Sub
