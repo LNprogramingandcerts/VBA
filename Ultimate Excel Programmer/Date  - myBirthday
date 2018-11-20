@@ -1,0 +1,9 @@
+Sub Birthday()
+Dim myBirthday As Date
+myBirthday = "2 / 23 / 1992"
+DiffDate = Date - myBirthday
+myHrs = DiffDate * 24
+
+MsgBox "You are " & DiffDate & "day old, " & myHrs & " total hrs old!"
+
+End Sub
