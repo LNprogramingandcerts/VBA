@@ -1,0 +1,5 @@
+Sub Var()
+myVar = 50
+MsgBox myVar
+Call myVariableDec
+End Sub
