@@ -1,0 +1,12 @@
+Public myVariable1 As Double
+const myName as String = "Daniel Strong, cool dude"
+
+Sub Var()
+myVar = 50
+MsgBox myVar
+Call myVariableDec
+End Sub
+
+Sub BI()
+MsgBox myName
+End Sub
