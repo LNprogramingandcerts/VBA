@@ -1,0 +1,12 @@
+Sub CallingSub()
+a = 10
+b = 20
+CalledSub a, b
+
+MsgBox "a is now " & a & " and b is " & b
+End Sub
+
+Sub CalledSub(ByVal y, ByVal z)
+y = 100
+z = 100
+End Sub
