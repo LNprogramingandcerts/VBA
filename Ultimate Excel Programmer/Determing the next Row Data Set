@@ -1,0 +1,4 @@
+sub nrCode()
+
+nextRow = Cells(Rows.Count, 1).End(xlUp).Row + 1
+End Sub
