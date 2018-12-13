@@ -1,0 +1,11 @@
+sub Lastrow()
+
+LastRow = cells(rows.Count,1).End(xlUp).Row
+
+End Sub
+
+sub Lastcolumn()
+
+LastColumn = cells(Columns.Count,1).End(xlToLeft).Column
+
+End Sub
