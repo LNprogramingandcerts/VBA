@@ -1,0 +1,9 @@
+Sub MyIfstatement()
+
+If Range("c6") = 12 Then
+  MsgBox "Good"!"
+Else 
+  MsgBox "Bad!"
+ End If
+ 
+ End Sub
